@@ -8,8 +8,22 @@ attributes:
     homebrewalt:
         apps:
             - git
+            - hg
+            - imagemagick
+            - jpegoptim
+            - optipng
+            - phantomjs
+            - ssh_copy_id
         cask_apps:
             - google-chrome
+            - firefox
+            - opera
+            - virtualbox
+            - vagrant
+            - sourcetree
+            - iterm2
     nodejs:
         apps:
             - bower
+            - grunt-cli
+            - yo

@@ -1,13 +1,37 @@
 groups:
     - groupa
 recipes:
-    mac_os_x:
-        - osxdefaults::set_computer_name
 attributes:
-    osxdefaults:
-        computername: MyComputerName
     homebrewalt:
         apps:
             - git-extras
         cask_apps:
-            - sourcetree
+            - adium
+            - alfred
+            - caffeine
+            - ccmenu
+            - dash
+            - dropbox
+            - evernote
+            - heroku-toolbelt
+            - hipchat
+            - lastpass-universal
+            - libreoffice
+            - macvim
+            - menumeters
+            - minecraft
+            - screenflow
+            - scrivener
+            - sequel-pro
+            - skype
+            - spotify
+            - sublime-text
+            - transmit
+            - utorrent
+            - vlc
+            - vmware-fusion
+            - vypervpn
+            - wireshark
+            - xquartz
+            - xscope
+            - yubikey-personalization-gui
