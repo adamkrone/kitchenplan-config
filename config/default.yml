@@ -13,7 +13,7 @@ attributes:
             - jpegoptim
             - optipng
             - phantomjs
-            - ssh_copy_id
+            - ssh-copy-id
         cask_apps:
             - google-chrome
             - firefox
